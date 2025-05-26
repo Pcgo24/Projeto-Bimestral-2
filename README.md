@@ -33,10 +33,5 @@ Este projeto foi realizado como parte das atividades do 1º período da faculdad
 
 ---
 
-## 📄 Licença
-
-> **Este projeto não possui licença definida.**
-
----
 
 Sinta-se à vontade para explorar o código e adaptar conforme suas necessidades!
